@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Şapşik</string>
+    <string name="sapsik">Şapşik</string>
+
+    <string name="html_title">
+
+          <![CDATA[
+                     <a><center><font color=#ff5f00>Nasıl Oynanır?<center></a>
+
+                ]]>
+      </string>
+
+    <string name="html_title1">
+
+          <![CDATA[
+                     <a><center><font color=#ffffff>Bildin Şapşiğim benim!<center></a>
+
+                ]]>
+      </string>
+
+
+</resources>
